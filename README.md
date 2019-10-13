@@ -1,7 +1,6 @@
 # VueJS Athens
 
-![Vue.js Athens logo](designs/logo/logo.svg)
-
+<img alt="Vue.js Athens logo" src="designs/logo/logo.svg" width="320">
 
 ## Welcome to VueJS Athens!
 
