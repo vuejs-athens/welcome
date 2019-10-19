@@ -10,4 +10,4 @@ ____________________________
 
 * [Composition API: RFC - The clash of the devs](https://slides.com/timosergio/deck-1/fullscreen) ( _Sergio Kagiema, Frontend Engineer @ Agile Actors_ )
 
-* [VueJS: Now and the future](https://google.com) ( _Prashant Palikhe_ )
+* [VueJS: Now and the future](https://vuecompositionapi.prashantpalikhe.com) ( _Prashant Palikhe, Freelance Frontend developer in Netherlands_ )
