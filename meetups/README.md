@@ -11,10 +11,8 @@
 
 #### Presentation Links
 
-* [Developers point of Vue](https://drive.google.com/file/d/0B1yG1o0TrB7xYUVPWTRhV3FtNDU2ZnFiTVZHRjVJN3V2Mlpr/view) ( _Panagiotis Adamopoulos, Lead Software Engineer @ INTRASOFT International_ )
+* [Developers point of Vue](https://drive.google.com/file/d/0B1yG1o0TrB7xYUVPWTRhV3FtNDU2ZnFiTVZHRjVJN3V2Mlpr/view) _(Panagiotis Adamopoulos, Lead Software Engineer @ INTRASOFT International)_
 
 * [Composition API: RFC - The clash of the devs](https://slides.com/timosergio/deck-1/fullscreen) _([@Sergio Kagiema](https://twitter.com/sergio_kag), Frontend Engineer @ Agile Actors)_
 
-* VueJS: Now and the future ([_@Prashant Palikhe_](https://twitter.com/PrashantPalikhe))
-
----
+* [VueJS: Now and the future](https://vuecompositionapi.prashantpalikhe.com) _([@Prashant Palikhe_](https://twitter.com/PrashantPalikhe), Freelance Frontend developer in Netherlands)_
