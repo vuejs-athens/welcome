@@ -1,13 +1,18 @@
-# VueJS Athens Meetups
-------
-&nbsp;
-## Meetup-01 (10-Oct-19)
-____________________________
+## VueJS Athens Meetups
+---
+### #01 Meetup (Oct 10, 2019)
+
+![First event banner](/meetups/resources/01-meetup/prevent-speakers.png)
+
+
+[Meetup.com event](https://www.meetup.com/vuejsathens/events/264962104/)
+
+[Facebook event](https://www.facebook.com/events/480394415847464/)
+
 #### Presentation Links
 
+* [Developers point of Vue](https://drive.google.com/file/d/0B1yG1o0TrB7xYUVPWTRhV3FtNDU2ZnFiTVZHRjVJN3V2Mlpr/view) _(Panagiotis Adamopoulos, Lead Software Engineer @ INTRASOFT International)_
 
-* [Developers point of Vue](https://drive.google.com/file/d/0B1yG1o0TrB7xYUVPWTRhV3FtNDU2ZnFiTVZHRjVJN3V2Mlpr/view) ( _Panagiotis Adamopoulos, Lead Software Engineer @ INTRASOFT International_ )
+* [Composition API: RFC - The clash of the devs](https://slides.com/timosergio/deck-1/fullscreen) _([@Sergio Kagiema](https://twitter.com/sergio_kag), Frontend Engineer @ Agile Actors)_
 
-* [Composition API: RFC - The clash of the devs](https://slides.com/timosergio/deck-1/fullscreen) ( _Sergio Kagiema, Frontend Engineer @ Agile Actors_ )
-
-* [VueJS: Now and the future](https://vuecompositionapi.prashantpalikhe.com) ( _Prashant Palikhe, Freelance Frontend developer in Netherlands_ )
+* [VueJS: Now and the future](https://vuecompositionapi.prashantpalikhe.com) _([@Prashant Palikhe_](https://twitter.com/PrashantPalikhe), Freelance Frontend developer in Netherlands)_
