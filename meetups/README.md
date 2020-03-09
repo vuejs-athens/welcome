@@ -17,7 +17,7 @@
 
 * [VueJS: Now and the future](https://vuecompositionapi.prashantpalikhe.com) _([@Prashant Palikhe](https://twitter.com/PrashantPalikhe), Freelance Frontend developer in Netherlands)_
 ---
-### #02 Meetup (Oct 5, 2020)
+### #02 Meetup (Mar 5, 2020)
 
 ![First event banner](/meetups/resources/02-meetup/prevent-speakers.png)
 
