@@ -30,6 +30,6 @@
 
 * [VueJS: Getting Started](https://slides.com/timosergio/vuejs-getting-started/fullscreen) _([@Sergio Kagiema](https://twitter.com/sergio_kag), Front-end Engineer @ Agile Actors)_
 
-* [VueJS Amsterdam 2020 Conference Recap](https://github.com/vuejs-athens/welcome/blob/2nd-meetup/meetups/resources/02-meetup/presentations/vue_amsterdam.key) _([@Dimitris Zotos](https://twitter.com/dimzts), Senior Front-end Engineer @ Blueground)_
+* [VueJS Amsterdam 2020 Conference Recap](https://github.com/vuejs-athens/welcome/blob/master/meetups/resources/02-meetup/presentations/vue_amsterdam.key) _([@Dimitris Zotos](https://twitter.com/dimzts), Senior Front-end Engineer @ Blueground)_
 
 * [Enterprise Solutions Architectures in VueJS Projects](https://github.com/panosadamop/presentations/blob/master/VueJS%20Meetup/VueJS-2meetup.pdf) _(Panagiotis Adamopoulos, Lead Software Engineer / Software Architect @ INTRASOFT International)_
