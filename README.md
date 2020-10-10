@@ -11,6 +11,7 @@ Every level of developer is welcome.
 
 |  | Date | Title |  |
 | ------------- | -------------| ------------- | ------------- 
+| #3  | October 8, 2020 | [VueJS Athens Meetup #3](https://www.meetup.com/vuejsathens/events/273548411/) |  [Video](https://www.youtube.com/watch?v=gbtJvymBKdg&ab_channel=VueJSAthens) |
 | #2  | March 5, 2020 | [VueJS Athens Meetup #2](https://www.meetup.com/vuejsathens/events/269042850/) |  [Presentations](/meetups#02-meetup-mar-5-2020) |
 | #1  | October 10, 2019 | [VueJS Athens Meetup #1](https://www.meetup.com/vuejsathens/events/264962104/) |  [Presentations](/meetups#01-meetup-oct-10-2019) |
 | #0  | June 4, 2019 | [John Papa + FrontMania PubQuiz meetup](https://www.meetup.com/vuejsathens/events/261680276/) |  |
