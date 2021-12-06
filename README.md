@@ -11,6 +11,7 @@ Every level of developer is welcome.
 
 |  | Date | Title |  |
 | ------------- | -------------| ------------- | -------------
+| #7  | December 9, 2021 | [VueJS Athens Meetup #7](https://www.meetup.com/vuejsathens/events/282423516/) |  [Video](https://www.youtube.com/watch?v=adkxGYeW97c) |
 | #6  | October 7, 2021 | [VueJS Athens Meetup #6](https://www.meetup.com/vuejsathens/events/280874035/) |  [Video](https://www.youtube.com/watch?v=S3zI9nRKcag) |
 | #5  | March 18, 2021 | [VueJS Athens Meetup #5](https://www.meetup.com/vuejsathens/events/276854039/) |  [Video](https://www.youtube.com/watch?v=6g2nnMNoegw) |
 | #4  | December 17, 2020 | [VueJS Athens Meetup #4](https://www.meetup.com/vuejsathens/events/275097908/) |  [Video](https://www.youtube.com/watch?v=Mw3WabmJ5Vg) |
